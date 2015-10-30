@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--styleable -->
+    <declare-styleable name="SeekBarWithMark">
+        <attr name="sbw_markItemNum" format="integer" />
+        <attr name="sbw_markDescArray" format="reference|string" />
+        <attr name="sbw_isShowPoint" format="boolean" />
+        <attr name="sbw_progressDrawabler" format="reference" />
+        <attr name="sbw_thumbDrawable" format="reference" />
+        <attr name="sbw_markTextSize" format="reference|dimension" />
+    </declare-styleable>
+
+</resources>
